@@ -1,0 +1,19 @@
+{
+	"name": "inpuDataset",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LinkedService_storagedemo",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "input.txt",
+				"folderPath": "input",
+				"container": "mycontainer"
+			}
+		}
+	}
+}
