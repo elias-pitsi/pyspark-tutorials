@@ -1,0 +1,9 @@
+{
+	"name": "eliaspitsi",
+	"location": "southafricanorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3f330d73-5c50-40ba-b431-6c93da83f59d",
+		"tenantId": "e0793d39-0939-496d-b129-198edd916feb"
+	}
+}
